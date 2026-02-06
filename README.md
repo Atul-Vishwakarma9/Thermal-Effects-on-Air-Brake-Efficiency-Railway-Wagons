@@ -6,7 +6,7 @@ The project was carried out as part of a **Summer Internship at Wagon Repair Sho
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Railway air brake systems rely on compressed air to transmit braking signals along long wagon chains.  
 The physical properties of air—such as **density**, **speed of pressure wave propagation**, and **viscosity**—vary significantly with ambient temperature.
@@ -21,7 +21,7 @@ This project quantifies these effects using thermodynamic principles and MATLAB 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Study the effect of ambient temperature on air brake system efficiency
 - Analyze variation in:
@@ -33,7 +33,7 @@ This project quantifies these effects using thermodynamic principles and MATLAB 
 
 ---
 
-## 🧠 Theoretical Background
+##  Theoretical Background
 
 The simulation is based on fundamental thermodynamics and fluid mechanics:
 
@@ -55,7 +55,7 @@ Where:
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 1. Ambient temperatures considered: **-10°C to 50°C**
 2. Convert temperature from Celsius to Kelvin
@@ -69,7 +69,7 @@ Where:
 
 ---
 
-## 💻 MATLAB Implementation
+##  MATLAB Implementation
 
 The core MATLAB script performs:
 - Thermodynamic calculations
